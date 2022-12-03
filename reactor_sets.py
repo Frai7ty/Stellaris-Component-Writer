@@ -11,7 +11,7 @@ SIZE_RESTRICTIONS = {"corvette"    : "corvette colonizer lithoid_colonizer spons
 pwr = {"corvette"    :  {"fission" : 75,   "fusion" : 100,  "cold_fusion" : 130,  "antimatter" : 170,  "zero_point" : 220,  "dark_matter" : 285},
        "destroyer"   :  {"fission" : 140,  "fusion" : 180,  "cold_fusion" : 240,  "antimatter" : 320,  "zero_point" : 430,  "dark_matter" : 550},
        "cruiser"     :  {"fission" : 280,  "fusion" : 360,  "cold_fusion" : 480,  "antimatter" : 620,  "zero_point" : 800,  "dark_matter" : 1030},
-       "battleship"  :  {"fission" : 550,  "fusion" : 720,  "cold_fusion" : 950,  "antimatter" : 1250, "zero_point" : 1550, "dark_matter" : 200},
+       "battleship"  :  {"fission" : 550,  "fusion" : 720,  "cold_fusion" : 950,  "antimatter" : 1250, "zero_point" : 1550, "dark_matter" : 2000},
        "titan"       :  {"fission" : 1100, "fusion" : 1450, "cold_fusion" : 1900, "antimatter" : 2500, "zero_point" : 3200, "dark_matter" : 4200},
        "starbase"    :  {"fission" : 1650, "fusion" : 2170, "cold_fusion" : 2850, "antimatter" : 3570, "zero_point" : 4550, "dark_matter" : 6200},
        "platform"    :  {"fission" : 200,  "fusion" : 260,  "cold_fusion" : 340,  "antimatter" : 440,  "zero_point" : 575,  "dark_matter" : 750}}      
